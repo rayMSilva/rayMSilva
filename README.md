@@ -17,7 +17,7 @@
   <a href="mailto:raymichelknapp@gmail.com?subject=Hi%20Ray">
     <img src="https://img.shields.io/badge/Gmail-661A1A?style=for-the-badge&logo=gmail&logoColor=F8F4F2">
   </a>
-  <a href="https://www.linkedin.com/in/raymichel/" target="_blank">
+  <a href="https://www.linkedin.com/in/ray-michel-23ba78288/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-661A1A?style=for-the-badge&logo=linkedin&logoColor=F8F4F2">
   </a>
 </div>
