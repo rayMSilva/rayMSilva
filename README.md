@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img width="35" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">, I'm Ray Michel</h1>
 
-<h3 align="center">Mobile Developer | Python Automation | Founder @ ClicSend</h3>
+<h3 align="center">Mobile Developer | Python Automation | Founder of ClicSend</h3>
 
 ---
 
@@ -11,7 +11,7 @@
   <a href="https://github.com/rayMSilva" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-661A1A?style=for-the-badge&logo=github&logoColor=F8F4F2">
   </a>
-  <a href="https://www.instagram.com/dev_raym/" target="_blank">
+  <a href="https://www.instagram.com/raym__silva/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-661A1A?style=for-the-badge&logo=instagram&logoColor=F8F4F2">
   </a>
   <a href="mailto:raymichelknapp@gmail.com?subject=Hi%20Ray">
