@@ -32,6 +32,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,git,androidstudio,cs,css,html,py&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,git,androidstudio,cs,dart,flutter,py&theme=dark" />
   </a>
 </p>
