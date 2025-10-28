@@ -43,6 +43,7 @@ I’m always striving to improve my core techniques and deliver clean, efficient
 ![Flutter](https://img.shields.io/badge/Flutter-661A1A?style=for-the-badge&logo=flutter&logoColor=F8F4F2)
 ![Python](https://img.shields.io/badge/Python-661A1A?style=for-the-badge&logo=python&logoColor=F8F4F2)
 ![JavaScript](https://img.shields.io/badge/JavaScript-661A1A?style=for-the-badge&logo=javascript&logoColor=F8F4F2)
+![Java](https://img.shields.io/badge/Java-661A1A?style=for-the-badge&logo=openjdk&logoColor=F8F4F2)
 
 #### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-661A1A?style=for-the-badge&logo=git&logoColor=F8F4F2)
@@ -72,12 +73,4 @@ I’m always striving to improve my core techniques and deliver clean, efficient
 
 <p align="center">
   <b>“Code is the bridge between ideas and impact.”</b>
-</p>
-
-### :hammer_and_wrench: **Skills**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,git,androidstudio,cs,dart,flutter,py&theme=dark" />
-  </a>
 </p>
