@@ -25,12 +25,10 @@
 ---
 
 ### 🧠 **About Me**
+
 <p>👨‍🎓 Graduating in Computer Science from UNOESC</p>
-<br>
 <p>📱 Mobile developer specializing in Flutter</p>
-<br>
 <p>🌐 Lover of technology</p>
-<br>
 <p>🎒 an enthusiast of human knowledge and a lover of learning</p>
 
 ---
