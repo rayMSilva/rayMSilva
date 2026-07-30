@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img width="35" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">, I'm Ray Michel</h1>
 
-<h3 align="center">Mobile Developer | Python Automation | Founder of ClicSend</h3>
+<h3 align="center">Mobile Developer | Python Automation</h3>
 
 ---
 
@@ -30,8 +30,6 @@ I'm a **mobile developer** focused on **Flutter**, experienced in building appli
 
 I have a strong ability to **understand business flows** and design **custom solutions** for clients across different industries.
 
-Currently, I work at **ClicSend – Automação Comercial**, where I help businesses streamline communication and sales processes through automation and smart integrations.
-
 I’m always striving to improve my core techniques and deliver clean, efficient, and high-performance results.
 
 ---
@@ -42,7 +40,6 @@ I’m always striving to improve my core techniques and deliver clean, efficient
 ![Dart](https://img.shields.io/badge/Dart-661A1A?style=for-the-badge&logo=dart&logoColor=F8F4F2)
 ![Flutter](https://img.shields.io/badge/Flutter-661A1A?style=for-the-badge&logo=flutter&logoColor=F8F4F2)
 ![Python](https://img.shields.io/badge/Python-661A1A?style=for-the-badge&logo=python&logoColor=F8F4F2)
-![JavaScript](https://img.shields.io/badge/JavaScript-661A1A?style=for-the-badge&logo=javascript&logoColor=F8F4F2)
 ![Java](https://img.shields.io/badge/Java-661A1A?style=for-the-badge&logo=openjdk&logoColor=F8F4F2)
 
 #### 🧰 Tools & Platforms
@@ -54,23 +51,13 @@ I’m always striving to improve my core techniques and deliver clean, efficient
 
 ---
 
-### 📊 **GitHub Stats**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayMSilva&show_icons=true&theme=transparent&title_color=661A1A&icon_color=661A1A&text_color=5A5A5A" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayMSilva&layout=compact&title_color=661A1A&text_color=5A5A5A" />
-</div>
-
----
-
 ### 🚀 **Current Focus**
 - Enhancing mobile app performance with Flutter best practices  
 - Building automation scripts using Python + APIs  
-- Improving CI/CD workflows and deployment processes  
-- Expanding the ClicSend ecosystem with integrated tools
+- Improving CI/CD workflows and deployment processes
 
 ---
 
 <p align="center">
-  <b>“Code is the bridge between ideas and impact.”</b>
+  <b>“Code is the bridge between ideas and a direct impact on human knowledge.”</b>
 </p>
