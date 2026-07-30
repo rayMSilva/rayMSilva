@@ -26,11 +26,10 @@
 
 ### 🧠 **About Me**
 
-I'm a **mobile developer** focused on **Flutter**, experienced in building applications connected to **REST APIs**, integrating **local databases (SQLite)**, and developing **Python automations**.
-
-I have a strong ability to **understand business flows** and design **custom solutions** for clients across different industries.
-
-I’m always striving to improve my core techniques and deliver clean, efficient, and high-performance results.
+👨‍🎓 Graduating in Computer Science from UNOESC
+📱 Mobile developer specializing in Flutter
+🌐 Lover of technology
+🎒 an enthusiast of human knowledge and a lover of learning
 
 ---
 
